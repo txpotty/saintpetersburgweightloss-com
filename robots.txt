@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://saintpetersburgweightloss.com/sitemap.xml
